@@ -1,4 +1,4 @@
-name: jdc-ax1800-pro-64G 
+name: jdc-wifi
 
 on:
   workflow_dispatch:
